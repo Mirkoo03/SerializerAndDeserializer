@@ -1,0 +1,27 @@
+<root>
+  <annoDiInizio>2018</annoDiInizio>
+  <aula>
+    <nome>13TC</nome>
+    <numeroDiBanchi>20</numeroDiBanchi>
+  </aula>
+  <classe>5A</classe>
+  <numeroFinestre>3</numeroFinestre>
+  <specializzazione>IA</specializzazione>
+  <studenti>
+    <studenti>
+      <annoDiNascita>2003</annoDiNascita>
+      <cognome>Cimara</cognome>
+      <nome>Adrian</nome>
+    </studenti>
+    <studenti>
+      <annoDiNascita>2003</annoDiNascita>
+      <cognome>Bencini</cognome>
+      <nome>Lorenzo</nome>
+    </studenti>
+    <studenti>
+      <annoDiNascita>2003</annoDiNascita>
+      <cognome>Gigli</cognome>
+      <nome>Filippo</nome>
+    </studenti>
+  </studenti>
+</root>
